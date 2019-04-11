@@ -213,6 +213,7 @@ ggplot(data=HousingClean) +
     ## `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 
 ![](Housingdata_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![alt text](https://github.com/duytruong1211/Applied-Statistics/blob/master/unnamed-chunk-7-1.png)
 
 ``` r
 #Graph showing relationship between median house price and the room number
@@ -225,6 +226,7 @@ ggplot(data=HousingClean) +
     ## `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 
 ![](Housingdata_files/figure-markdown_github/unnamed-chunk-7-2.png)
+![alt text](https://github.com/duytruong1211/Applied-Statistics/blob/master/unnamed-chunk-7-2.png)
 
 1.  Multicollearity check
 
@@ -246,6 +248,7 @@ qqPlot(fitUpdate)
 ```
 
 ![](Housingdata_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](https://github.com/duytruong1211/Applied-Statistics/blob/master/unnamed-chunk-9-1.png)
 
     ## [1] 178 360
 
