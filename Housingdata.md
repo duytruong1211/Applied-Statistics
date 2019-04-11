@@ -262,5 +262,6 @@ abline(0,0)
 ```
 
 ![](Housingdata_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](https://github.com/duytruong1211/Applied-Statistics/blob/master/unnamed-chunk-10-1.png)
 
 The graph shows no pattern in the distribution, therefore satisfying the homoscedasticity condition.
