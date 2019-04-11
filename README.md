@@ -1,4 +1,10 @@
-# Applied-Statistics
-Boston Housing price prediction 
+# Applied Statistics - Housing price prediction
+Statistical model predicting housing price using R
 
-Tools: R, Rstudio
+# Overview
+Data source: https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+
+
+
+
+
