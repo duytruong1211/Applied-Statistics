@@ -129,6 +129,7 @@ abline(h = 4*mean(cookD), col="red")
 ```
 
 ![](Housingdata_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![alt text](https://github.com/duytruong1211/Applied-Statistics/blob/master/unnamed-chunk-4-1.png)
 
 ``` r
 #introduce new data with outliers
